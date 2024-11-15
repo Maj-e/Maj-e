@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Background**: [A short description of your background, e.g., "I hold a degree in Computer Science from XYZ University."]I'm actualy a 42 student in Malaga
-- 🌱 **Learning Journey**: [What you're currently learning or exploring, e.g., "Currently exploring AI and data visualization."]
-- 🎯 **Goals**: [Your personal or professional goals, e.g., "To contribute to open-source projects and develop user-centered applications."]
+- 🎓 **Background**: Restauration, Sales, RRHH, and now developper !
+- 🌱 **Learning Journey**: 42, HackTheBox
+- 🎯 **Goals**: I want to innovate and search about code science
 - 🛠️ **Skills**:  
   - Languages: C, Javascript, html
   - Frameworks: React, Django, etc.  
@@ -20,8 +20,8 @@
 ## 🌐 Connect with Me
 
 - **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn**: [linkedin.com/in/matteo-jeannin-41045b214](https://linkedin.com/in/yourusername)
+- **GitHub**: [https://github.com/Maj-e](https://github.com/yourusername)
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
 
