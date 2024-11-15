@@ -3,7 +3,7 @@
 # Hi, I'm Matteo 👋
 
 ![Profile Badge](https://img.shields.io/badge/-Developer-blue) ![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange)  
-**Welcome to my corner of the internet!** I'm a [Your Profession/Title] with a passion for [specific areas of interest, e.g., "building web apps, solving complex problems, and creating meaningful digital experiences"].  
+**Welcome to my corner of the internet!** I'm a 42 student with a passion for developpement.  
 
 ---
 
