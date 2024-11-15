@@ -1,3 +1,5 @@
+![Alt Text](https://images.ctfassets.net/xuqkguafrpu1/1i6TzH85r2LnlotMLEhBW5/658fe685d1d76a3cab52534d85d77da2/occult_JPL_10-2-2020b3.jpg?q=80&fl=progressive)
+
 # Hi, I'm Matteo 👋
 
 ![Profile Badge](https://img.shields.io/badge/-Developer-blue) ![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange)  
@@ -7,9 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Background**: Restauration, Sales, RRHH, and now developper !
-- 🌱 **Learning Journey**: 42, HackTheBox
-- 🎯 **Goals**: I want to innovate and search about code science
+- 🎓 **Background**: [A short description of your background, e.g., "I hold a degree in Computer Science from XYZ University."]I'm actualy a 42 student in Malaga
+- 🌱 **Learning Journey**: [What you're currently learning or exploring, e.g., "Currently exploring AI and data visualization."]
+- 🎯 **Goals**: [Your personal or professional goals, e.g., "To contribute to open-source projects and develop user-centered applications."]
 - 🛠️ **Skills**:  
   - Languages: C, Javascript, html
   - Frameworks: React, Django, etc.  
@@ -19,19 +21,17 @@
 
 ## 🌐 Connect with Me
 
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn**: [linkedin.com/in/matteo-jeannin-41045b214](https://linkedin.com/in/yourusername)
-- **GitHub**: [https://github.com/Maj-e](https://github.com/yourusername)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
-
+- **Portfolio**: [My Notion](https://mjnn.notion.site/Home-efa120f4990b47a591505e232ce90f47?pvs=4)
+- **LinkedIn**: [Check my professional life here](linkedin.com/in/matteo-jeannin-41045b214)
+- **GitHub**: [Want some magic tricks ?](https://github.com/Maj-e)
+- **Email**: [mjnncode@gmail.com](mailto:mjnncode@gmail.com)
 ---
 
 ## 🛠️ My Projects
 
 Check out some of my favorite projects:
 
-- **[Project Name](https://github.com/yourusername/project)**: A short description of this project.
+- **[Libft](https://github.com/yourusername/project)**: This is my "tool box", which I use in my school project !
 - **[Project Name](https://github.com/yourusername/project)**: Another cool thing I worked on.
 - **[Project Name](https://github.com/yourusername/project)**: Something I'm really proud of.
 
@@ -40,7 +40,7 @@ Check out some of my favorite projects:
 ## ✨ Fun Facts About Me
 
 - 🖌️ **Hobbies**: [Mention hobbies or interests, e.g., "Sketching, hiking, and playing the guitar."]
-- 🌎 **Languages**: [If applicable, e.g., "Fluent in English, Spanish, and conversational in Japanese."]
+- 🌎 **Languages**: [French / English / Spanish / Italian]
 - 🎲 **Quirky Fact**: [Add something fun about yourself, e.g., "I can solve a Rubik's cube in under 2 minutes!"]
 
 ---
