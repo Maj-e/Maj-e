@@ -9,13 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Background**: [A short description of your background, e.g., "I hold a degree in Computer Science from XYZ University."]I'm actualy a 42 student in Malaga
-- 🌱 **Learning Journey**: [What you're currently learning or exploring, e.g., "Currently exploring AI and data visualization."]
-- 🎯 **Goals**: [Your personal or professional goals, e.g., "To contribute to open-source projects and develop user-centered applications."]
+- 🎓 **Background**: Restaurant manager / Sales / RRHH / Developer
+- 🌱 **Learning Journey**: I'm actualy a 42 student in Malaga
+- 🎯 **Goals**: I want to be a part of the future of technology
 - 🛠️ **Skills**:  
   - Languages: C, Javascript, html
-  - Frameworks: React, Django, etc.  
-  - Tools: cybesecurity tools
+  - Tools: Cybesecurity tools
 
 ---
 
@@ -31,17 +30,14 @@
 
 Check out some of my favorite projects:
 
-- **[Libft](https://github.com/yourusername/project)**: This is my "tool box", which I use in my school project !
-- **[Project Name](https://github.com/yourusername/project)**: Another cool thing I worked on.
-- **[Project Name](https://github.com/yourusername/project)**: Something I'm really proud of.
+- **[Libft](https://github.com/Maj-e/libft)**: This is my "tool box", which I use in my school project !
 
 ---
 
 ## ✨ Fun Facts About Me
 
-- 🖌️ **Hobbies**: [Mention hobbies or interests, e.g., "Sketching, hiking, and playing the guitar."]
-- 🌎 **Languages**: [French / English / Spanish / Italian]
-- 🎲 **Quirky Fact**: [Add something fun about yourself, e.g., "I can solve a Rubik's cube in under 2 minutes!"]
+- 🖌️ **Hobbies**: I love music, playing video game, visit museums, sport
+- 🌎 **Languages**: French / English / Spanish / Italian
 
 ---
 
