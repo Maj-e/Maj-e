@@ -1,6 +1,6 @@
 # Code:alchemist
 
-![Alchemist Theme](https://raw.githubusercontent.com/Maj-e/git.ressources/refs/heads/main/Leonardo_Vision_XL_digital_alchemist_science_code_computer_occ_2.jpg?token=GHSAT0AAAAAAC2QZ4AZGKJOZ6AC6AIXFOSEZZYQOSQ)
+![Alchemist Theme](https://raw.githubusercontent.com/Maj-e/git.ressources/refs/heads/main/Leonardo_Vision_XL_digital_alchemist_science_code_computer_occ_1%20(1).jpg?token=GHSAT0AAAAAAC2QZ4AYS3CFRPVGFN63VCS2ZZYTDGQ)
 
 <span style="color: limegreen; font-size: 1.2em; font-style: italic;">
 The alchemist symbolizes wisdom, transformation, and the pursuit of dreams. Representing a guide and mentor, the figure helps others discover their true purpose and potential. Through the metaphor of alchemy, it conveys the idea that true treasure lies in self-discovery and harmony with the universe.
