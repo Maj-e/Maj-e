@@ -1,5 +1,9 @@
 ![Alt Text](https://raw.githubusercontent.com/Maj-e/git.ressources/refs/heads/main/Leonardo_Vision_XL_digital_alchemist_science_code_computer_occ_2.jpg?token=GHSAT0AAAAAAC2QZ4AZGKJOZ6AC6AIXFOSEZZYQOSQ)
 
+<span style="color: limegreen;">The alchemist symbolizes wisdom, transformation, and the pursuit of dreams. Representing a guide and mentor, the figure helps others discover their true purpose and potential. Through the metaphor of alchemy, it conveys the idea that true treasure lies in self-discovery and harmony with the universe.</span>
+
+
+
 # Hi, I'm Matteo 👋
 
 ![Profile Badge](https://img.shields.io/badge/-Developer-blue) ![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange)  
