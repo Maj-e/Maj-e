@@ -1,4 +1,4 @@
-![Alt Text](https://images.ctfassets.net/xuqkguafrpu1/1i6TzH85r2LnlotMLEhBW5/658fe685d1d76a3cab52534d85d77da2/occult_JPL_10-2-2020b3.jpg?q=80&fl=progressive)
+![Alt Text](https://raw.githubusercontent.com/Maj-e/git.ressources/refs/heads/main/Leonardo_Vision_XL_digital_alchemist_science_code_computer_occ_2.jpg?token=GHSAT0AAAAAAC2QZ4AZGKJOZ6AC6AIXFOSEZZYQOSQ)
 
 # Hi, I'm Matteo 👋
 
