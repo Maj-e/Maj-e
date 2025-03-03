@@ -38,6 +38,7 @@ The alchemist symbolizes wisdom, transformation, and the pursuit of dreams. Repr
 Check out some of my favorite projects:
 
 - **[Libft](https://github.com/Maj-e/libft)**: This is my "toolbox," which I use in my school projects!
+- **[The Dinning Philosopher](https://github.com/Maj-e/The-dinning-Philosopher)** : Have a look to how I resolved the dinning philosopher problem and race conditions
 
 ---
 
