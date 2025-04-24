@@ -41,6 +41,7 @@ Check out some of my favorite projects:
 - **[The Dinning Philosopher](https://github.com/Maj-e/The-dinning-Philosopher)** : Have a look to how I resolved the dinning philosopher problem and race conditions
 
 ---
+![snake gif](https://github.com/Maj-e/Maj-e/raw/output/github-contribution-grid-snake.svg)
 
 ## ✨ Fun Facts About Me
 
