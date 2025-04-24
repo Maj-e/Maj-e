@@ -50,11 +50,5 @@ Check out some of my favorite projects:
 
 ---
 
-## 🐍 Contribution Graph Animation
-
-![snake gif](https://github.com/Maj-e/Maj-e/raw/output/github-contribution-grid-snake.svg)
-
----
-
 **Thanks for stopping by! Feel free to connect or check out my work. Let's build something amazing together!** 🚀
 
