@@ -19,8 +19,9 @@ The alchemist symbolizes wisdom, transformation, and the pursuit of dreams. Repr
 - 🌱 **Learning Journey**: Currently studying at 42 Malaga  
 - 🎯 **Goals**: To be part of the future of technology  
 - 🛠️ **Skills**:  
-  - Languages: **C**, **JavaScript**, **HTML**  
-  - Tools: **Cybersecurity tools**
+  - Languages: **C**, **C++**, **JavaScript**, **HTML**, **CSS**
+  - Frameworks: **React**
+  - More: **Cybersecurity tools**
 
 ---
 
