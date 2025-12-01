@@ -1,11 +1,3 @@
-# Code:alchemist
-
-<span style="color: limegreen; font-size: 1.2em; font-style: italic;">
-The alchemist symbolizes wisdom, transformation, and the pursuit of dreams. Representing a guide and mentor, the figure helps others discover their true purpose and potential. Through the metaphor of alchemy, it conveys the idea that true treasure lies in self-discovery and harmony with the universe.
-</span>
-
----
-
 # Hi, I'm Matteo 👋
 
 ![Profile Badge](https://img.shields.io/badge/-Developer-blue) ![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange)  
