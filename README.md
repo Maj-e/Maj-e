@@ -7,19 +7,18 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Background**: Restaurant Manager / Sales / HR / Developer  
+- 🎓 **Background**: Sales / HR / Developer  
 - 🌱 **Learning Journey**: Currently studying at 42 Malaga  
 - 🎯 **Goals**: To be part of the future of technology  
 - 🛠️ **Skills**:  
   - Languages: **C**, **C++**, **JavaScript**, **HTML**, **CSS**
   - Frameworks: **React**
-  - More: **Cybersecurity tools**
+  - More: **Cybersecurity**
 
 ---
 
 ## 🌐 Connect with Me
 
-- **Portfolio**: [My Notion](https://mjnn.notion.site/Home-efa120f4990b47a591505e232ce90f47?pvs=4)  
 - **LinkedIn**: [Check my professional life here](https://linkedin.com/in/matteo-jeannin-41045b214)  
 - **GitHub**: [Want some magic tricks?](https://github.com/Maj-e)  
 - **Email**: [mjnncode@gmail.com](mailto:mjnncode@gmail.com)  
