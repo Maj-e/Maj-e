@@ -13,7 +13,7 @@
 - 🛠️ **Skills**:  
   - Languages: **C**, **C++**, **JavaScript**, **HTML**, **CSS**
   - Frameworks: **React**
-  - More: **Cybersecurity**
+  - More: **Cybersecurity, Unreal Engine, Startup building knowledges**
 
 ---
 
@@ -36,12 +36,6 @@ Check out some of my favorite projects:
 
 ---
 
-## ✨ Fun Facts About Me
-
-- 🖌️ **Hobbies**: I love music, playing video games, visiting museums, and sports  
-- 🌎 **Languages**: French, English, Spanish, and Italian
-
----
 
 **Thanks for stopping by! Feel free to connect or check out my work. Let's build something amazing together!** 🚀
 
