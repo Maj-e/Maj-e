@@ -20,7 +20,6 @@
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [Check my professional life here](https://linkedin.com/in/matteo-jeannin-41045b214)  
-- **GitHub**: [Want some magic tricks?](https://github.com/Maj-e)  
 - **Email**: [mjnncode@gmail.com](mailto:mjnncode@gmail.com)  
 
 ---
