@@ -38,6 +38,8 @@
 
 ### 🎓 Some of 42 Core projects
 
+* **[ft_transcendence](https://github.com/Maj-e/ft_transcendence)** *Full-stack Web | RPG & OAuth2* A unique RPG experience where your **real-life 42 stats** become your character's power. Built as a single-page application, it integrates the 42 API to transform student data into playable attributes in a competitive environment.
+  
 * **[SoLong](https://github.com/Maj-e/so-long)** A 2D game engine project. Challenge yourself to collect all items and escape the map while handling window management and basic graphics.
 
 * **[Dining Philosophers](https://github.com/Maj-e/The-dinning-Philosopher)** An exploration of **multithreading and mutexes**. This project solves the classic synchronization problem, ensuring no philosopher starves while avoiding race conditions and deadlocks.
